@@ -36,17 +36,4 @@ Income vs loan amount:Higher groups tend o secure larger loans while lower incom
 
 This Dashboard solved these issues by transforming raw loan data into actionable insights.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Just say 👉 **“Make it portfolio-ready”** 🚀
+Make it portfolio-ready”** 🚀
